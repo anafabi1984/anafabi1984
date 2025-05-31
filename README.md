@@ -1,8 +1,9 @@
- 😁Olá, eu sou a Fabiana!
+ # 👋 Olá! Eu sou Fabiana
 
- 💻Entusiasta em Ciência de Dados e IA. 
+📊 Apaixonada por dados e tecnologia, estou me qualificando na área de **Data Analytics**, explorando maneiras de transformar informações em insights valiosos.
 
- 👩‍🎓 Graduanda em Análise e Desenvolvimento de Sistemas.
+💡 Tenho conhecimentos em **Power BI, SAS, SQL, HTML, CSS**, além de noções em **Python e JavaScript**. Estou sempre buscando aprimorar minhas habilidades e aprender novas ferramentas.
 
- "O conhecimento é orgulhoso por ter aprendido tanto. A sabedoria é humilde por não saber mais."
+🚀 Meu objetivo é desenvolver soluções eficientes que facilitem a análise de dados e a tomada de decisões estratégicas.
 
+Vamos trocar conhecimentos e construir algo incrível juntos! 🚀✨
